@@ -52,7 +52,7 @@ body {
 
 .box_inner {
     
-    background: url(images/image-qr-code.png);
+    background: url(image-qr-code.png);
     background-position: left top;
     background-size: contain;
     border-radius: 15px;
